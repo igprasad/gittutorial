@@ -3,4 +3,4 @@ gittutorial
 
 this is a test repository
 
-this is new text
+this is new version of read me
