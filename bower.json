@@ -1,0 +1,21 @@
+{
+  "name": "HTML 5 tools tutorial",
+  "version": "0.1.0",
+  "homepage": "https://github.com/igprasad/gittutorial",
+  "authors": [
+    "Guruprasad Irivichetty <g.irivichetty@accenture.com>"
+  ],
+  "description": "this is an test code for Guru",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "*",
+    "bootstrap": "~3.1.1"
+  }
+}
